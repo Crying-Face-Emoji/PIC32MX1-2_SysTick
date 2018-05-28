@@ -2,7 +2,7 @@
 # Sytem Tick/ delay for PIC32MX1XX/2XX
 
 Author:  Rafael Silva  
-Name: PIC32MX1-2_SysTick
+Name: PIC32MX1-2_SysTick  
 Github: github.com/Crying-Face-Emoji  
 
 ## Dependencies
