@@ -24,5 +24,3 @@ Any PIC32MX from the 1XX/2XX family
   
 ## TODO:  
 
-
-### Sorry for this mess it was copy pasted ^^  
